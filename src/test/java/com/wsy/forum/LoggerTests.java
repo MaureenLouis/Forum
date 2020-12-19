@@ -29,4 +29,9 @@ public class LoggerTests {
 		// Do nothing.
 	}
 	
+	@Test
+	public void testRemoteGit() {
+		// Do nothing.
+	}
+	
 }
