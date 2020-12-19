@@ -24,4 +24,9 @@ public class LoggerTests {
 		logger.error("Error Log");
 	}
 	
+	@Test
+	public void testGit() {
+		// Do nothing.
+	}
+	
 }
