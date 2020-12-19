@@ -1,0 +1,11 @@
+2020-12-19 22:20:48.738  INFO 13064 --- [main] com.wsy.forum.LoggerTests                : Starting LoggerTests using Java 1.8.0_151 on DESKTOP-DVR9OQL with PID 13064 (started by wsy in E:\wsy_project\Forum)
+2020-12-19 22:20:48.740 DEBUG 13064 --- [main] com.wsy.forum.LoggerTests                : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-19 22:20:48.743  INFO 13064 --- [main] com.wsy.forum.LoggerTests                : No active profile set, falling back to default profiles: default
+2020-12-19 22:20:53.153  INFO 13064 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-19 22:20:53.440  INFO 13064 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-12-19 22:20:54.289  INFO 13064 --- [main] com.wsy.forum.LoggerTests                : Started LoggerTests in 6.144 seconds (JVM running for 7.883)
+2020-12-19 22:20:54.841 DEBUG 13064 --- [main] com.wsy.forum.LoggerTests                : Debug Log
+2020-12-19 22:20:54.841  INFO 13064 --- [main] com.wsy.forum.LoggerTests                : Info Log
+2020-12-19 22:20:54.842  WARN 13064 --- [main] com.wsy.forum.LoggerTests                : Warn Log
+2020-12-19 22:20:54.842 ERROR 13064 --- [main] com.wsy.forum.LoggerTests                : Error Log
+2020-12-19 22:20:54.993  INFO 13064 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
