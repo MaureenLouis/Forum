@@ -1,6 +1,6 @@
 package com.wsy.forum;
 
-import org.junit.jupiter.api.Test;
+
 import org.junit.runner.RunWith;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -15,7 +15,7 @@ public class LoggerTests {
 	
 	private static final Logger logger = LoggerFactory.getLogger(LoggerTests.class);
 	
-	@Test
+	
 	public void testLogger() {
 		System.out.println(logger.getName());
 		logger.debug("Debug Log");
@@ -24,14 +24,6 @@ public class LoggerTests {
 		logger.error("Error Log");
 	}
 	
-	@Test
-	public void testGit() {
-		// Do nothing.
-	}
 	
-	@Test
-	public void testRemoteGit() {
-		// Do nothing.
-	}
-	
+
 }
